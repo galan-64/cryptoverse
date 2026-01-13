@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "projects": [
+    {
+      "sourceId": "grass",
+      "name": "Grass",
+      "url": "https://app.getgrass.io/",
+      "type": "program",
+      "tags": ["passive"],
+      "status": "active"
+    },
+    {
+      "sourceId": "nodepay",
+      "name": "Nodepay",
+      "url": "https://app.nodepay.ai/",
+      "type": "program",
+      "tags": ["passive"],
+      "status": "active"
+    },
+    {
+      "sourceId": "layerzero",
+      "name": "LayerZero",
+      "url": "https://layerzero.foundation/",
+      "type": "airdrop",
+      "tags": ["airdrop","testnet"],
+      "status": "active"
+    }
+  ]
+}
